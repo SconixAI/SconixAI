@@ -26,7 +26,7 @@ We follow an agile-first, research-driven development process:
 
 We're always looking for talented minds passionate about AI, engineering, and building the future. If you're a builder, thinker, or dreamer — **get in touch**.
 
-📧 contact@sconix.ai  
+📧 Info@sconix.ai  
 🌐 [www.sconix.ai](https://www.sconix.ai)
 
 ---
